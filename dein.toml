@@ -1,0 +1,25 @@
+[[plugins]]
+repo = 'Shougo/dein.vim'
+
+[[plugins]] # toml syntax
+repo = 'cespare/vim-toml'
+on_ft = 'toml'
+
+
+[[plugins]] 
+repo = 'w0ng/vim-hybrid'
+
+
+
+# TMUX
+[[plugins]]
+repo = 'tmux-plugins/vim-tmux'
+on_ft = 'tmux'
+
+
+[[plugins]] #
+repo = 'scrooloose/nerdtree'
+
+[[plugins]] 
+repo = 'Shougo/unite.vim'
+

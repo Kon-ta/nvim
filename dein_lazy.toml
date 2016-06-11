@@ -1,0 +1,7 @@
+[[plugins]]
+repo = 'junegunn/fzf'
+if = 'executable("fzf")'
+on_cmd = ['FZF','fzf#run']
+
+
+
